@@ -8,3 +8,4 @@ __pycache__/
 .env.*
 preswald-env/
 export/
+secrets.toml
